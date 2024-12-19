@@ -8,13 +8,11 @@ printf("Soğuk bir kış akşamıydı\nKar giderek şiddetleniyordu. 2 kardeş b
           //iREM TOKTAŞ
           // EMSAL İREM DEMİREL
           //İREM TOPSAKAL
-
-          printf("Ormanda kaybolan iki kardeş kendilerine kalacak biryer bulmak için yola koyuldular..");//Mustafa Saput
-        printf("malzemeyi arap faikten aldım karabükte ikinci yükleme yapılıyordu adanaya kadarda ben kullanıyordum kamyonu..");  //Yasin ERGÜT
-
+          //Mustafa Saput
+          //Yasin ERGÜT
           //melike yilmaz
           //Ayşe Nur Karakoyunlu
-          //elif zeren boyraz
+         printf("Karşılaştıkları esrarengiz görünümlü yabancı bir anda ciddileşerek, “Bir şey daha var, bu ormanda gecele olduğunda çok dikkatli olmalısınız. Eski bir efsaneye göre, bu ormanda dolaşan bir şey var... Kimse ne olduğunu tam olarak bilmiyor ama geceleri kaybolan birçok insan oldu” diyerek gözden kayboldu."); //elif zeren boyraz
           //İbrahim TEK
           //Sıla Kuzan
           //Emine Zehra Köseoğlu
